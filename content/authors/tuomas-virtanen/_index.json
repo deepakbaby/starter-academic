@@ -1,0 +1,11 @@
+{
+    "name": "Tuomas Virtanen",
+    "bio": "Professor at Tampere University of Technology, Finland",
+    "image": "http://www.cs.tut.fi/~tuomasv/tuomas.png",
+    "weight": 1,
+    "social": {
+        "twitter": "",
+        "github": "",
+        "website": "http://www.cs.tut.fi/~tuomasv/"
+    }
+}
