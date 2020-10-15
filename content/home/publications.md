@@ -15,7 +15,7 @@ subtitle = "[Google Scholar Profile](https://scholar.google.be/citations?user=69
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 4
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,6 +67,6 @@ subtitle = "[Google Scholar Profile](https://scholar.google.be/citations?user=69
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
