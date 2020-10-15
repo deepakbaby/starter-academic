@@ -74,8 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Deepak Baby is an Applied Scientist working in the Amazon Alexa team since October 2020. He was previously working as a post-doctoral researcher with [Prof. Hervé Bourlard](http://people.idiap.ch/bourlard) at [Idiap Research Institute](www.idiap.ch/en). 
+Deepak Baby is an Applied Scientist working in the Amazon Alexa team since October 2020. 
 
-He previously worked as a post-doctoral researcher with [Prof. Sarah Verhulst](https://scholar.google.be/citations?user=gm5wuzUAAAAJ&hl=en&oi=ao) at [WAVES](https://waves.intec.ugent.be/hearing-technology), Department of Information Technology, Ghent University between February 2017 and April 2019, where he was working on DNN-based hearing restoration strategies for hearing impairment.
+He was previously working as a post-doctoral researcher with [Prof. Hervé Bourlard](http://people.idiap.ch/bourlard) at [Idiap Research Institute](www.idiap.ch/en) between May 2019 and June 2020. Prior to that he was a post-doctoral researcher with [Prof. Sarah Verhulst](https://scholar.google.be/citations?user=gm5wuzUAAAAJ&hl=en&oi=ao) at [WAVES](https://waves.intec.ugent.be/hearing-technology), Department of Information Technology, Ghent University between February 2017 and April 2019, where he was working on DNN-based hearing restoration strategies for hearing impairment.
 
 Deepak Baby received his PhD in Electrical Engineering (Thesis title : *Non-negative Sparse Representations for Speech Enhancement and Recognition*) from ESAT/PSI group in KU Leuven in November 2016 under the supervision of [Prof. Hugo Van hamme](https://scholar.google.com/citations?user=IKDnCkcAAAAJ&hl=en). Deepak received the Masters degree in Communication Engineering from Dept. of Electrical Engineering, [Indian Institute of Technology Bombay](https://www.ee.iitb.ac.in/web) in 2012 and Bachelors degree in Electronics and Communication Engineering from [College of Engineering Trivandrum](https://www.cet.ac.in/), India in 2009.
