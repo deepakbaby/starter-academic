@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-Deepak Baby is an Applied Scientist working in the Amazon Alexa team since October 2020. 
+Deepak Baby is with the Amazon Alexa team as an Applied Scientist since October 2020. 
 
 He was previously working as a post-doctoral researcher with [Prof. Hervé Bourlard](http://people.idiap.ch/bourlard) at [Idiap Research Institute](www.idiap.ch/en) between May 2019 and June 2020. Prior to that he was a post-doctoral researcher with [Prof. Sarah Verhulst](https://scholar.google.be/citations?user=gm5wuzUAAAAJ&hl=en&oi=ao) at [WAVES](https://waves.intec.ugent.be/hearing-technology), Department of Information Technology, Ghent University between February 2017 and April 2019, where he was working on DNN-based hearing restoration strategies for hearing impairment.
 
