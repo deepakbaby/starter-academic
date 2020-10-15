@@ -33,7 +33,7 @@ education:
     year: 2016
   - course: MTech in Communication Engineering
     institution: IIT Bombay, India
-    year: 2010
+    year: 2012
   - course: BTech in Electronics and Communication Engineering
     institution: College of Engineering Trivandrum, India
     year: 2009
@@ -48,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/deepak_baby
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=69q7FOYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/deepakbaby
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
