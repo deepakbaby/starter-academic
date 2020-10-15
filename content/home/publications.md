@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "[Google Scholar Profile](https://scholar.google.be/citations?user=69q7FOYAAAAJ&hl=en)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
