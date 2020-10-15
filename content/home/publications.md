@@ -67,6 +67,3 @@ subtitle = "[Google Scholar Profile](https://scholar.google.be/citations?user=69
  css_class = ""
 +++
 
-#{{% callout note %}}
-#Quickly discover relevant content by [filtering publications](./publication/).
-#{{% /callout %}}
