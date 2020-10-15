@@ -10,7 +10,7 @@ title = "Academic Service"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 26
+weight = 44
 
 +++
 ## Mentoring
