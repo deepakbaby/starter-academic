@@ -122,9 +122,9 @@ Now the pre-requisites are done. Next, we can use either MATLAB or python to pre
 
 [Click here to jump to the python approach](#custom-features-using-python)
 
-{{% alert warning %}}
+{{% callout warning %}}
 Notice that if you want to use the alignments obtained using say MFCC features, the number of frames in the new features should match that of the MFCC features. i.e., the custom feature extraction must use the same window size and window shift. Otherwise, we will end up with wrong alignments and the (DNN or GMM) training will fail.
-{{% /alert %}}
+{{% /callout %}}
 
 -------------------------------------------------------------------------------------------------------------------
 

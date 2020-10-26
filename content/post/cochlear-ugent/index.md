@@ -62,15 +62,15 @@ Anaconda also offers tensorflow and keras installations among many many other li
 
 This should install other libraries that are required by keras and tensorflow. I found that it is better to install keras before installing tensorflow since keras also installs a tensorflow that may not be comaptible with the GPU (I am not 100\% sure about this).
 
-{{% alert note %}}
+{{% callout note %}}
 Instead of using ``` conda install ```, we can also use ``` pip install <the-library-you-need>``` in the same environment for installing libraries. But I recommend using ``` conda```.             
-{{% /alert %}}
+{{% /callout %}}
 
 You can use ``` conda list``` to see all the installed libraries in your environment. ``` conda env list``` will list all the conda environments in your system.
 
-{{% alert warning %}}
+{{% callout warning %}}
 A popular python editor called sypder also comes pre-installed with anaconda. But it does not work over remote desktop as the keyboard does not work properly. If somebody finds a workaround, kindly update this.        
-{{% /alert %}}
+{{% /callout %}}
 
 ### Testing Tensorflow Installation
 You can test whether the tensorflow installation is using the GPU using the following options.
@@ -87,9 +87,9 @@ If it gives message like ``` Adding visible gpu devices:```, then it means that 
 ***
 
 ## Admin only
-{{% alert warning %}}
+{{% callout warning %}}
 **This section details the GPU installation guidelines. Only an admin should take care of this. Notice that this should be done only when there is a kernel update or when ``` nvidia-smi``` command does not list any GPUs (meaning the system does not see the GPUs anymore).**
-{{% /alert %}}
+{{% /callout %}}
 
 ### Installing the cuda compiler and nvidia drivers
 These steps are adapted from [here](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html). Ignore the ```$``` sign in the beginning of the commands.
