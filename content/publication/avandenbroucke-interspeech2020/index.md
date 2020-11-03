@@ -3,7 +3,7 @@ title = "Hearing-Impaired Bio-Inspired Cochlear Models for Real-Time Auditory Ap
 date = 2020-10-28
 draft = false
 
-authors = [Arthur Van Den Broucke, "admin", "sarah-verhulst"]
+authors = ["Arthur Van Den Broucke", "admin", "sarah-verhulst"]
 publication_types = ["1"]
 
 publication = "INTERSPEECH, Shanghai, China"
