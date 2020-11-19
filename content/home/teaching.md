@@ -38,7 +38,10 @@ Topic: *Face detection using sparse representations based on compressive sensing
 * Computer, Speech & Language
 * Speech Communication
 * Journal of Acoustical Society of America
+* Neural Networks (Elsevier)
 
 ### Conferences
 
 * INTERSPEECH
+* IEEE-ICASSP
+* IEEE International Conference on Multimedia & Expo (ICME)
