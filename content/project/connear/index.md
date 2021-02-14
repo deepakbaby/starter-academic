@@ -10,5 +10,5 @@ external_link = ""
 url_code = "https://github.com/HearingTechnology/CoNNear_cochlea"
 +++
 
-A convolutional neural-network model of human cochlear mechanics and filter tuning for real-time applications. Implementation of [Nature 2021 Paper] ( {{< relref "publication/dbaby-nature2021" >}}).
+A convolutional neural-network model of human cochlear mechanics and filter tuning for real-time applications. Implementation of [Nature 2021 Paper](https://deepakbaby.in/publication/dbaby-nature2021/).
 
